@@ -76,12 +76,11 @@ CineTrack integrates the **OMDb API** to fetch movie information dynamically.
 
 ## 📸 Screenshots
 
-> Add your screenshots inside a `screenshots/` folder
 
 ### 🏠 Home Page
 ![Home Page](Screenshots/home.png)
 
-### 🎥 Movie Management
+### 🎥 OMDP API
 ![OMDP API](Screenshots/OMDP-API.png)
 
 ### 📊 Statistics Dashboard
