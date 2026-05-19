@@ -1,0 +1,35 @@
+Team Number: 29
+
+Team Names and IDs
+
+Member 1
+Name: Dima Khaled
+Id: 20230134
+
+Member 2
+Name: Youana Joseph
+Id: 20230520
+
+Member 3
+Name: Zyad Mohamed
+Id: 20230159
+
+Member 4
+Name: Antonious Magdy
+Id: 20230073
+
+Member 5
+Name: Youssef Ahmed
+Id: 20230479
+
+Member 6
+Name: Karin Zaki
+Id: 20230290
+
+Member 7
+Name: Sandy Emad
+Id: 20230170
+
+Member 8
+Name: Rawan Rushdy
+Id: 20230140
